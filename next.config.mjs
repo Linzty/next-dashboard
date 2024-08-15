@@ -1,10 +1,5 @@
-// next.config.mjs
 /** @type {import('next').NextConfig} */
- 
-const nextConfig = {
-    experimental: {
-      ppr: 'incremental',
-    },
-  };
-   
-  export default nextConfig;
+
+const nextConfig = {};
+
+export default nextConfig;
